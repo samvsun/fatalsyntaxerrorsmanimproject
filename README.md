@@ -1,9 +1,7 @@
-# fatalsyntaxerrorsmanimproject
-A presentation style video which is about tips and mistakes while using Python operators. Built using the Manim Library.
+#(CSE1012) Module 2: Python Operators & Branching 
+## FATAL SYNTAX ERRORS (Bulit using Manim Library)
 
-# CSE1012: Python Operators & Branching (Manim Animation)
-
-A simple presentation built with Manim.
+A simple presentation that I built using manim
 
 ## Setup & Execution
 

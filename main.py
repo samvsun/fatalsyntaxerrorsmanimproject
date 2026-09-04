@@ -8,9 +8,8 @@
 Good Day, sir. This is Samanthak(26BEC7166) from B2 Slot.
 This code cannot be run just by executing the python file, it needs to be executed using the manim library.
 It requires the Manim library and numpy package to be installed.
-
 To download the output video directly, please proceed to the google drive link below:
-
+https://drive.google.com/drive/folders/1nsIezsMjlbo1fTuzth0xJkqWWYEWRSZH?usp=sharing
 '''
 from manim import *
 import numpy as np
@@ -466,7 +465,7 @@ class Module2FullPresentation(Scene):
     # SCENE 4: BRANCHING MAZE (Shifted & Scaled to fit within frame)
     # --------------------------------------------------------------------------
     def play_scene_4_branching(self):
-        header = Text("SCENE 4: Control Flow & Branching", font_size=32, color=YELLOW).to_edge(UP)
+        header = Text("Control Flow & Branching", font_size=32, color=YELLOW).to_edge(UP)
         self.play(FadeIn(header, shift=DOWN))
 
         # 1. Input Variable Setup (Shifted further left and slightly smaller)
@@ -547,7 +546,7 @@ class Module2FullPresentation(Scene):
         )
 
         # 4. Final Output Display (Sized down to stay within frame)
-        res_text = Text("Access Granted:\nStandard", font_size=18, color=GREEN, weight=BOLD)
+        res_text = Text("Access Granted:", font_size=18, color=GREEN, weight=BOLD)
         res_box = SurroundingRectangle(res_text, color=GREEN, buff=0.15, corner_radius=0.1)
         res_group = VGroup(res_box, res_text).next_to(path_branch, RIGHT, buff=0.15)
 

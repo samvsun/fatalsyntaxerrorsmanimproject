@@ -1,4 +1,4 @@
-#(CSE1012) Module 2: Python Operators & Branching 
+(CSE1012) Module 2: Python Operators & Branching 
 ## FATAL SYNTAX ERRORS (Bulit using Manim Library)
 
 A simple presentation that I built using manim

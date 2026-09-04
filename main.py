@@ -1,16 +1,3 @@
-'''
-██████╗ ███████╗ █████╗ ██████╗     ███╗   ███╗███████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗    ████╗ ████║██╔════╝
-██████╔╝█████╗  ███████║██║  ██║    ██╔████╔██║█████╗  
-██╔══██╗██╔══╝  ██╔══██║██║  ██║    ██║╚██╔╝██║██╔══╝  
-██║  ██║███████╗██║  ██║██████╔╝    ██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝     ╚═╝     ╚═╝╚══════╝
-Good Day, sir. This is Samanthak(26BEC7166) from B2 Slot.
-This code cannot be run just by executing the python file, it needs to be executed using the manim library.
-It requires the Manim library and numpy package to be installed.
-To download the output video directly, please proceed to the google drive link below:
-https://drive.google.com/drive/folders/1nsIezsMjlbo1fTuzth0xJkqWWYEWRSZH?usp=sharing
-'''
 from manim import *
 import numpy as np
 
